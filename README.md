@@ -1,5 +1,6 @@
-# sample
+# Vue, VSCode, Eslint, Prettier - Sample Repo
 
+Repo for [this blog post.]()
 ## Project setup
 ```
 yarn install
